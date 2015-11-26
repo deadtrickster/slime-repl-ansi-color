@@ -1,6 +1,6 @@
 (require 'ansi-color)
 
-(define-slime-contrib slime-presentations
+(define-slime-contrib slime-repl-ansi-color
   "Turn on ANSI colors in REPL output"
   (:authors "Max Mikhanosha")
   (:license "GPL")
